@@ -435,6 +435,8 @@ body.offcanvas {
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 5px;
+  background-color:#000000;
+  opacity: 0.6;
   font-weight: 500; }
 
 .hire {
