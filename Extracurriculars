@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>  
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ssignment 1 Page 2</title>
+        <link rel="stylesheet" type="text/css" href="mystyle.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="Education.html">About Poseidon</a></li>
+                    <li><a href="Extracurriculars.html">Poseidon's Trident</a></li>
+                    <li><a href="page3.html">Percy Jackson</a></li>
+                </ul>
+            </nav>
+            <h1 class="bold">Poseidon's Trident</h1>
+        </header>
+        <div>
+            <p class="standard">The trident is an awesome weapon but also a brand of chewing gum.</p>
+        </div>
+    </body>
+</html>
